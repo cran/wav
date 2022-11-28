@@ -1,0 +1,15 @@
+76874514768c50d514f2fdc8c13a097c *DESCRIPTION
+5996a3e2ea2f58c54ee413e037b23e43 *LICENSE
+09c95bc4bc261caaa7299d2eb1ab4108 *NAMESPACE
+20cb62d6c95885cdbfbfc6ac19c4f41b *R/RcppExports.R
+17151c8601bf73d761bf5811078ae69f *R/package.R
+ff16be620478f6c4587cfe81fe93b9fb *R/wav.R
+3c60e3fcb36d8c1601274cb7b350e36a *README.md
+3e5a7630db9d54cc60eb5c9be4d11800 *man/read_wav.Rd
+35596de7c122d39e01b96f1b51f1a7d4 *src/RcppExports.cpp
+ba93bf6395dd921a82e874b36797cbe4 *src/dr.cpp
+e72738c34d7259ee6cf57771ec5e9dec *src/dr_libs/LICENSE
+4eca5036cc4f99fd16257365a5263db8 *src/dr_libs/dr_wav.h
+514d0a5d604026a38afb44fdbe45e765 *tests/testthat.R
+0cdb1066bd139abd9cf8653b69c6ef45 *tests/testthat/resources/test-audio.wav
+41c3d4dc65c079d51b357f51e668881e *tests/testthat/test-wav.R
